@@ -1,0 +1,28 @@
+.select {
+  margin: 0 auto;
+  width: 250px;
+}
+
+.select__header {
+  display: flex;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  width: 250px;
+  margin: 0 auto;
+}
+
+.select__current {
+  font-size: 18px;
+  line-height: 24px;
+  padding: 8px;
+}
+
+.select__icon {
+  display: flex;
+  height: 40px;
+  width: 40px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: auto;
+}
